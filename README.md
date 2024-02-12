@@ -12,7 +12,7 @@ Kullanıcılar giriş yaparak kendilerine atanan görevleri, iş arkadaşların�
 Yeni görev atama özelliği leader ve manager yetkili kullanıcılara özeldir. Kullanıcılar kendi kademelerine ve alt kademelerine yeni görev atayabilir. (Manager > Leader > Member).  
 Web uygulamasına aşağıdaki linkten erişim sağlayabilirsiniz. (Giriş içim kullanıcı adı: member2 , şifre: member2).
 
- LİNK
+[ LİNK](http://178.157.15.236:3000)
 
 # 4-)Backend
 
