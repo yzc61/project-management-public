@@ -8,7 +8,7 @@ Kullanıcılar giriş yaparak kendine atanan görevleri ve iş arkadaşlarının
 
 ```mermaid
 graph TD;
-    A{Orientation Page}--{[ LİNK](http://178.157.15.236:3000)}-->B{Login Page};
+    A{Orientation Page}-->B{Login Page};
     B{Login Page}-->C{Home Page};
     B{Login Page}-->D{All Job List};
     B{Login Page}-->E{Your Job List};
