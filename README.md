@@ -6,6 +6,14 @@
 Android Java kullanılarak geliştirilmiştir.
 Kullanıcılar giriş yaparak kendine atanan görevleri ve iş arkadaşlarının görevlerini görebilirler. Uygulama şimdilik sadece android olarak mevcuttur. Google Play Store'da kontrol ve test aşamasında olduğu için henüz Play Store linki paylaşamıyorum. Uygulamaya ait ekran görüntüleri eklenecektir.
 
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
 # 3-)Web App
 React JS kullanılarak geliştirilmiştir.
 Kullanıcılar giriş yaparak kendilerine atanan görevleri, iş arkadaşlarının görevlerini ve kullanıcı profilini görebilir. Kullanıcılar profillerinde sadece izin verilen alanları değiştirebilirler (Demo olduğu için şifre değiştirme özelliği kapalı durumdadır.).     
