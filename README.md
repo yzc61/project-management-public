@@ -8,10 +8,10 @@ Kullanıcılar giriş yaparak kendine atanan görevleri ve iş arkadaşlarının
 
 ```mermaid
 graph TD;
-    Orientation Page-->Login Page;
-    Login Page-->Home Page;
-    Login Page-->All Job List;
-    Login Page-->Your Job List;
+    A{Orientation Page}-->B{Login Page};
+    B{Login Page}-->C{Home Page};
+    B{Login Page}-->D{All Job List};
+    B{Login Page}-->E{Your Job List};
 ```
 
 # 3-)Web App
