@@ -4,7 +4,12 @@
 
 # 2-)Mobile App
 Android Java kullanılarak geliştirilmiştir.
-Kullanıcılar giriş yaparak kendine atanan görevleri ve iş arkadaşlarının görevlerini görebilirler. Uygulama şimdilik sadece android olarak mevcuttur. Google Play Store'da kontrol ve test aşamasında olduğu için henüz Play Store linki paylaşamıyorum. Uygulamaya ait ekran görüntüleri eklenecektir.
+Kullanıcılar giriş yaparak kendine atanan görevleri ve iş arkadaşlarının görevlerini görebilirler. Uygulama şimdilik sadece android olarak mevcuttur. Google Play Store uygulama yayınlama şartlarından dolayı mobil uygulamanın kapalı test linkini paylaşabiliyorum.Kapalı teste katılım linkleri aşağıdadır.
+
+[Android üzerinden katılım linki](https://play.google.com/store/apps/details?id=com.yzc.project_mngmnt_mobil)
+[Web üzerinden katılım linki](https://play.google.com/apps/testing/com.yzc.project_mngmnt_mobil)
+
+
 
 ```mermaid
 graph TD;
