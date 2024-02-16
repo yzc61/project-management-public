@@ -1,6 +1,6 @@
 # 1-)Introduction
    
-İş yönetimi ve çalışanların birbirleriyle iletişim kurabilmeleri için tasarlanan mobil,web ve backend olmak üzere 3 kısımdan oluşmaktadır. Geliştirme süreci devam ettiği iin tüm özellikler kullanılabilir durum değildir. 
+İş yönetimi ve çalışanların birbirleriyle iletişim kurabilmeleri için tasarlanan mobil,web ve backend olmak üzere 3 kısımdan oluşmaktadır. Geliştirme süreci devam etmektedir.
 
 # 2-)Mobile App
 Android Java kullanılarak geliştirilmiştir.
